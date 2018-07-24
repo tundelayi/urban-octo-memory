@@ -1,2 +1,0 @@
-# urban-octo-memory
-furseedstr
